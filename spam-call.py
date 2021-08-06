@@ -8,6 +8,7 @@ logo = """
   Author   : EC.404-F41L
   Github   : https://github.com/ferdizhen
   Web    : https://echo-idea.vercel.app
+  Instgram : zhen_ferdi
 
  Spam Call / Telepon Di Awali Dengan 
           Contoh Penggunaan:
@@ -43,4 +44,5 @@ if status == "Request misscall berhasil":
      print("\n {✓} Spam Call / Telepon Untuk No "+ target +" Berhasil \n")
 else:
      print("\n {×} Spam sudah dilakukan 3x » Gagal \n")
+
 
